@@ -1,4 +1,4 @@
-# OZK StreamKit — плагины и тема для OBS Studio
+# OZK StreamKit for OBS
 
 **Твой OBS. Твои правила.** Бесплатные плагины для OBS Studio от [OTMOPOZOK](https://www.youtube.com/channel/UCTAKYR3T2Ud8zZgNShgQfyw/): чат Twitch, YouTube и Kick, уведомления о стриме, статистика трансляции и записи, мультистрим и тёмная тема.
 
