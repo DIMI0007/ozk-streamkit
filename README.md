@@ -8,7 +8,7 @@
 | --- | --- |
 | [OZK Chat](https://github.com/DIMI0007/ozk-chat) | Собирает чаты Twitch, YouTube и Kick в OBS; позволяет отвечать в выбранные чаты. |
 | [OZK Notify](https://github.com/DIMI0007/ozk-notify) | Отправляет анонсы эфира в Telegram и Discord, показывает состояние трансляций и донатов. |
-| [OZK Donations](https://github.com/DIMI0007/ozk-donations) | Показывает донаты DonationAlerts и DonatePay в отдельной панели OBS. Поддерживает один сервис или оба, хранит последние записи на компьютере и может использовать уже сохранённый вход OZK Notify для новых донатов. |
+| [OZK Donations](https://github.com/DIMI0007/ozk-donations) | Показывает донаты DonationAlerts и DonatePay в отдельной панели OBS. История появляется из кеша сразу; общие суммы по сервисам и за месяц считаются постепенно по доступной истории. Поддерживает один сервис или оба и может использовать сохранённый вход OZK Notify. |
 | [OZK Stats](https://github.com/DIMI0007/ozk-stats) | Показывает нагрузку, запись и каждый поток с его битрейтом. |
 | [OZK Multi](https://github.com/DIMI0007/ozk-multi) | Запускает несколько горизонтальных выходов из одной OBS. Основан на Aitum Multistream; авторство и лицензия оригинала сохранены. |
 | [OZK Dark](https://github.com/DIMI0007/ozk-dark) | Меняет цвета стандартных панелей и верхней части OBS. |
